@@ -8,3 +8,7 @@ android/build/
 android/app/build/
 /android
 /ios
+*.jks
+*.keystore
+.env*
+!.env.example
